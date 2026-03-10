@@ -84,7 +84,7 @@ Python • Scikit-learn
 ## 📫 Contact
 
 LinkedIn  
-https://linkedin.com/in/TUOUSERNAME
+[Davide Doneddu](https://www.linkedin.com/in/davide-doneddu-78b284276/)
 
 Email  
-tuamail@example.com
+davide.doneddu02@gmail.com
