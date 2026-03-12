@@ -77,7 +77,7 @@ Python • Scikit-learn
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUOUSERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidedoneddu&show_icons=true)
 
 ---
 
